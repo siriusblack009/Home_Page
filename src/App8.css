@@ -1,0 +1,149 @@
+#l{
+    width: 1639px;
+    height: 916px;
+    top: 200px;
+    position: absolute;
+    right: 141px;
+    opacity: 1;
+}
+#l1{
+    width: 519px;
+    height: 305px;
+    bottom:386px ;
+    left:0;
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+opacity: 1;
+background: transparent url('../src/assets/bus.png')  0% 0% no-repeat padding-box;
+}
+#l2{
+    width: 519px;
+    height: 350px;
+    top: 409px;
+    left: 0px;
+    position: absolute;
+}
+#l3{
+    width: 254px;
+    height: 33px;
+    top: 162px;
+    left: 40px;
+    font: normal normal normal 24px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+position: absolute;
+}
+#l4{
+    width: 445.31px;
+    height: 67.88px;
+    position: absolute;
+    top: 215.41px;
+    right: 33.45px;
+    font: normal normal 300 16px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+}
+#l5{
+    width: 6.98px;
+    height:12.24px ;
+    top: 299px;
+    left: 39.84px;
+    position: absolute;
+}
+#l6{
+    
+    width: 6.98px;
+    height:12.24px ;
+    top: 299px;
+    left: 45.03px;
+    position: absolute;
+}
+#l7{
+    width: 108px;
+    height: 28px;
+    top: 291px;
+    left: 57px;
+    position: absolute;
+    font: normal normal normal 20px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+opacity: 1;
+}
+#l8{
+    width: 519px;
+    height: 305px;
+    bottom:386px ;
+    left:560px;
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+opacity: 1;
+background: transparent url('../src/assets/asdasd.png')  0% 0% no-repeat padding-box;
+z-index: 1;
+}
+#l10{
+    
+    width: 519px;
+    height: 305px;
+    bottom:384px ;
+    right:0px;
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+opacity: 1;
+background: transparent url('../src/assets/Layer\ 4dsasdas.png')  0% 0% no-repeat padding-box;
+}
+#l11{
+    top:409px;
+    right: 0;
+    width: 519px;
+    height: 350px;
+    position: absolute;
+    
+}
+#l9{
+    top: 409px;
+left: 560px;
+width: 519px;
+height: 350px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 40px #0E77FF26;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+#l12{
+    width: 265px;
+    height: 56px;
+    top: 0px;
+    left:688px;
+    position: absolute;
+    font: normal normal 600 40px/50px Poppins;
+letter-spacing: 0px;
+color: #000000;
+}
+#l13{
+    width: 881px;
+    height:94px ;
+    top: 75px;
+    left: 380px;
+    position: absolute;
+    font: normal normal 300 18px/32px Poppins;
+letter-spacing: 0px;
+color: #000000;
+text-align: center;
+opacity: 1;
+}
+#l14{
+    left: 701px;
+    bottom: 0px;
+    width: 239px;
+    height: 72px;
+    position: absolute;
+    border: 2px solid #0E77FF;
+border-radius: 35px;
+opacity: 1;
+font: normal normal normal 25px/69px Muli;
+letter-spacing: 0px;
+color: #0E77FF;
+text-align: center;
+align-items: center;
+}

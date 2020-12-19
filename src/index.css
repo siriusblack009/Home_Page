@@ -1,13 +1,155 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face{
+    font-family: 'Poppins';
+    src: local('Poppins'),url(./fonts/Poppins-Regular.ttf)format('truetype');
+    font-family: "Muli";
+    src:local('Muli'),url(./fonts/Muli-Regular.ttf)format('truetype');
+    font-family: 'Poppins';
+    src: local("Poppins"),url(./fonts/Poppins-SemiBold.ttf)format('truetype');
+    font-family: 'Poppins';
+    src: local("Poppins"),url(./fonts/Poppins-Medium.ttf)format('truetype');
+}
+*{
+    margin: 0;
+    right: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+   width: 1920px;
+   height: 9721px;
+   top: 0;
+   left: 0;
+    position: absolute;
+}
+#root{
+    top: 0;
+    left: 0;
+    
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+    background-color:#0e77ff ;
+}
+#temp{
+    top:1080px ;
+    width: 1920px;
+    height: 81.27px;
+    position: absolute;
+    background-color: white;
+}
+#root1{
+    top:1161.27px;
+    width: 1920px;
+    height: 1316.31px;
+    position: absolute;
+    
+}
+#root2{
+    top:2675px;
+    width: 1920px;
+    height:889px ;
+    position: absolute;
+}
+#root3{
+    height: 1307px;
+    width: 1920px;
+    top: 3565px;
+    position: absolute;
+
+}
+#temp1{
+    width: 582.64px;
+    height:563.83px ;
+    left: 0px;
+    top:4653.82px ;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    overflow: hidden;
+    position: absolute;
+    z-index: 2;
+}
+#root4{
+    top:4871px;
+    position: absolute;
+    height: 1197px;
+    width: 1920px;
+   
+border: 1px solid thin #707070;
+
+
+}
+#temp2{
+    width:274.93px;
+    height: 472.65px;
+    top: 5885.37px;
+    left: 728.74px;
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+}
+#root5{
+    top:6068px;
+    width: 1920px;
+    height: 917px;
+    position: absolute;
+}
+#root6{
+    width: 1920px;
+    height: 1367px;
+    top: 6985px;
+    position: absolute;
+   ;
+border: 1px solid thin #707070;
+
+}
+#temp3{
+    width: 1920px;
+    height: 1120px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+#temp4{
+    width: 747px;
+height: 836px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 40px 60px #0E77FF26;
+opacity: 1;
+right: 281px;
+bottom: 371px;
+position:  absolute;
+}
+#temp5{
+    width: 183px;
+height: 158px;
+position:  absolute;
+left: 336px;
+bottom: 1243.52px;
+background: transparent url('./assets/Path 37660.svg') 0% 0% no-repeat padding-box;
+
+}
+#temp6{
+    width: 572px;
+height: 572px;
+position: absolute;
+background: transparent url('./assets/Group 35649.svg') 0% 0% no-repeat padding-box;
+bottom: 2465.55px;
+right: 0px;
+opacity: 1;
+}
+#temp7{
+    width: 162px;
+height: 57px;
+background: transparent url('./assets/Group 35601.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+right: 740.32px;
+bottom:2866.52px;
+}
+#temp8{
+    width:357.906px ;height:320px;
+    position: absolute;
+    right: 0;
+    top: 400px;
+    overflow: hidden;
+    background: transparent url('./assets/Path 37501.svg') 0% 0% no-repeat padding-box;
 }

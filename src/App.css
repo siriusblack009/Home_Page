@@ -1,38 +1,210 @@
-.App {
-  text-align: center;
+.header{
+    top: 67px;
+    left: 281px;
+    width: 1358px;
+    height: 53px;
+    position: absolute;
+    align-items: center;
+}
+#logo{
+    color: #fff;
+    position: relative;
+    text-align: left;
+    font: normal normal normal 25px/38px Poppins ;
+    letter-spacing: 0;
+    opacity: 1;
+}
+#about{
+    position: relative;
+    left: 513px;
+    color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#services{
+    position: relative;
+    left:553px;
+    color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#case{
+    position: relative;
+    left:594px ;
+   color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#test{
+    position: relative;
+    left:633px ;
+   color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#contact{
+    position: relative;
+    left:673px ;
+    color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#login{
+    position: relative;
+    left:708px ;
+    background-color: #fff;
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins ;
+    letter-spacing: 0px;
+    opacity: 1;
+    width:159px;
+    text-align: center;
+    border:none;
+    height: 53px;
+    border-radius: 5px;
+    
+font: normal normal normal 18px/27px Poppins;
+letter-spacing: 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#content1{
+    top: 280px;
+left: 226px;
+width: 531px;
+height: 197px;
+position: absolute;
+}
+#a{fill:#fff;font-size:55px;font-family:Poppins-SemiBold, Poppins;font-weight:600;}
+#content2{
+    top: 526px;
+left: 225px;
+width: 735px;
+height: 75px;
+position: absolute;
+}
+.a1{fill:#9abfff;font-size:20px;font-family:Poppins-Light, Poppins;font-weight:300;}
+#content3{
+    top: 641px;
+left: 225px;
+width: 239px;
+height: 72px;
+position: absolute;
+}
+#get{
+    width: 239px;
+    height: 72px;
+    font: normal normal normal 25px/31px Muli;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+border: none;
+border-radius: 40px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.a2{fill:#fff;stroke:rgba(0,0,0,0);stroke-miterlimit:10;}
+#content4{
+    bottom: -170.27px;
+    
+    position: absolute;
+}
+.a3{
+    fill:none;stroke:#a7d3ec;
+}
+#content5{
+    left: 1260px;
+    top:160px;
+    position: absolute;
+}
+.a4{
+    fill:#68bae5;
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.a5{fill:none;stroke:#209cd9;}
+#content7{
+    left: 1570px;
+    bottom: 70px;
+    position: absolute;
 }
-
-.App-link {
-  color: #61dafb;
+.a6{fill:#209cd9;}
+#content8{
+    left: 1470px;
+    bottom: 130px;
+    position: absolute;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.a7{fill:#a7d3ec;}
+#content9{
+    position: absolute;
+    left: 1660px;
+    bottom:240px;
+}
+.a8{fill:none;stroke:#209cd9;}
+#content10{
+    position: absolute;
+    left: 1550px;
+    bottom: 420px;
+}
+.a9{fill:#fff;}
+#content11{
+    position: absolute;
+    left: 1660px;
+    top: 360px;
+}
+.a10{fill:#0e77ff;}
+#content12{
+    left: 1300px;
+    top:480px;
+    position: absolute;
+}
+.a11{fill:none;stroke:#209cd9;}
+#content13{
+    position: absolute;
+    right: 900px;
+    top: 480px;
+}
+.a12{fill:#68bae5;}
+#content14{
+    position: absolute;
+    left:580px;
+    bottom: 100px;
+}
+.a13{fill:#209cd9;}
+#content15{
+    position: absolute;
+    left: 940px;
+    top: 320px;
+}
+.a14{fill:#fff;}
+#content16{
+    position: absolute;
+    left: 1000px;
+    top: 220px;
+}
+.a15{fill:#a7d3ec;}
+#content17{
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+}
+.a16{fill:#209cd9;}
+#content18{
+    position: absolute;
+    left: 1170px;
+    top: 470px;
+}
+.a17{fill:#68bae5;}
+#content19{
+    position: absolute;
+    left: 850px;
+    bottom: 280px;
 }

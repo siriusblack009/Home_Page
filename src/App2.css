@@ -1,0 +1,219 @@
+#con1 {
+  width: 502px;
+  height: 889px;
+  background: #0e77ff 0% 0% no-repeat padding-box;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  position: absolute;
+  right: 0;
+}
+#con2 {
+  width: 899px;
+  height: 595px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 60px #0e77ff26;
+  position: absolute;
+  right: 0;
+  top: 146px;
+}
+#sub1 {
+  width: 97px;
+  height: 97px;
+  position: absolute;
+  left: 58px;
+  top: 36px;
+  overflow: hidden;
+}
+#sub2 {
+  width: 361px;
+  height: 61px;
+  text-align: left;
+  top: 60px;
+  position: absolute;
+  left: 188px;
+  overflow: hidden;
+  font: normal normal 600 44px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  align-items: center;
+}
+#sub3 {
+  width: 560px;
+  height: 152px;
+  top: 169px;
+  left: 58px;
+  position: absolute;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+}
+#sub4 {
+  width: 41px;
+  height: 41px;
+  top: 295px;
+  left: 58px;
+  position: absolute;
+}
+#sub5 {
+  width: 41px;
+  height: 41px;
+  top: 353px;
+  left: 58px;
+  position: absolute;
+}
+#sub6 {
+  width: 41px;
+  height: 41px;
+  top: 411px;
+  left: 58px;
+  position: absolute;
+}
+#sub7 {
+  width: 41px;
+  height: 41px;
+  top: 469px;
+  left: 58px;
+  position: absolute;
+}
+#sub8 {
+  width: 454px;
+  height: 23px;
+  left: 113px;
+  top: 304px;
+  position: absolute;
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+}
+#sub9 {
+  width: 226px;
+  height: 23px;
+  left: 113px;
+  top: 362px;
+  position: absolute;
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+}
+#sub10 {
+  width: 232px;
+  height: 23px;
+  left: 113px;
+  top: 420px;
+  position: absolute;
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+}
+#sub11 {
+  width: 331px;
+  height: 23px;
+  left: 113px;
+  top: 478px;
+  position: absolute;
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+}
+#con3{
+    width: 38.01px;
+    height: 46.91px;
+    position: absolute;
+    top: 242.55px;
+    left: 280px;
+    overflow: hidden;
+}
+#con4{
+    width: 177px;
+    height: 35px;
+    position: absolute;
+    top: 249px;
+    left: 325px;
+    text-align: left;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+}
+#con5{
+    top: 295px;
+    left: 280px;
+    position: absolute;
+    width: 500px;
+    height: 156px;
+    text-align: left;
+font: normal normal 600 40px Poppins;
+letter-spacing: 0px;
+color: #000000;
+}
+#con6{
+    top: 436px;
+    width: 239px;
+    height: 61px;
+    left: 280px;
+    position: absolute;
+    background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 16px;
+font: normal normal 600 20px/60px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+text-align: center;
+}
+#con7{
+    top: 436px;
+    width: 257px;
+    height: 61px;
+    left: 555px;
+    position: absolute;
+    background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 16px;
+font: normal normal 600 20px/60px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+text-align: center;
+}
+#con8{
+    top: 516px;
+    width: 221px;
+    height: 61px;
+    left: 280px;
+    position: absolute;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+border-radius: 16px;
+font: normal normal 600 20px/60px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+text-align: center;
+align-items: center;
+
+}
+#con9{
+    top: 516px;
+    width: 160px;
+    height: 61px;
+    left: 524px;
+    position: absolute;
+    background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 16px;
+font: normal normal 600 20px/60px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+text-align: center;
+}
+#con10{
+    top: 596px;
+    width: 244px;
+    height: 61px;
+    left: 280px;
+    position: absolute;
+    background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 16px;
+font: normal normal 600 20px/60px Poppins;
+letter-spacing: 0px;
+color: #0E77FF;
+text-align: center;
+}

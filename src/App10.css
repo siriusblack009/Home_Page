@@ -1,0 +1,158 @@
+#send{
+    width: 324px;
+height: 51px;
+text-align: left;
+font: normal normal 600 36px/50px Poppins;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+left: 88px;
+top: 100px;
+}
+#box1{
+    width: 560px;
+height: 489px;
+opacity: 1;
+top: 195px;
+left: 91px;
+position:  absolute;
+}
+#email{
+    width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+position: absolute;
+top: 0;
+left: 5px;
+}
+#name{
+    width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position:  absolute;
+top: 77px;
+left: 0px;
+}
+#ph{
+    width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+top: 155px;
+left: 0;
+}
+#sub{
+    width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+top: 234px;
+left: 0;
+position: absolute;
+}
+#msg{
+    width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+position: absolute;
+top: 330px;
+left: 0px;
+}
+#box2{
+    width: 317px;
+height: 38px;
+text-align: left;
+font: normal normal normal 14px/18px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+left: 42px;
+bottom: 0px;
+position: absolute;
+}
+#box3{
+    width: 29px;
+height: 28px;
+border: 1px solid #C9C9C9;
+border-radius: 5px;
+position: absolute;
+bottom: 6px;
+left: 0px;
+}
+#line{
+    top: 33.5px;
+    left: 5.5px;
+    width: 555px;
+height: 0px;
+border: 1px solid #000000;
+opacity: 1;
+position: absolute;
+}
+#line1{
+    top: 110.5px;
+    left: 0.5px;
+    width: 555px;
+height: 0px;
+border: 1px solid #000000;
+opacity: 1;
+position: absolute;
+}
+#line2{
+    top: 188.5px;
+    left: 0.5px;
+    width: 555px;
+height: 0px;
+border: 1px solid #000000;
+opacity: 1;
+position: absolute;
+}
+#line3{
+    top: 267.5px;
+    left: 0.5px;
+    width: 555px;
+height: 0px;
+border: 1px solid #000000;
+opacity: 1;
+position: absolute;
+}
+#line4{
+    top: 414.5px;
+    left: 5.5px;
+    width: 555px;
+height: 0px;
+border: 1px solid #000000;
+opacity: 1;
+position: absolute;
+}
+#gets{
+    width: 239px;
+height: 72px;
+background: #0E77FF 0% 0% no-repeat padding-box;
+border-radius: 35px;
+opacity: 1;
+position: absolute;
+bottom: 41px;
+left: 91px;
+font: normal normal normal 25px/67px Muli;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+text-align: center;
+}
